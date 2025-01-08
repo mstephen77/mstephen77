@@ -1,25 +1,25 @@
 👋 Hi, I'm **Stephen Dewanto**, a passionate IT professional with a strong focus on security, scalability, and innovation.  
 
-## 🎓 Education  
+### 🎓 Education  
 - **Master of Science (M.Sc.)** in Computer Science  
   - Specialization: Computational Intelligence  
 
-## 💼 Professional Experience  
-- **Security Consultant**  (2023-present)
+### 💼 Professional Experience  
+- **Security Consultant**  (2023 - present)
   - Developed and implemented robust security strategies for a private cryptocurrency exchange.  
   - Modernized infrastructure with a security-first microservices architecture.  
 
-- **Chief Executive Officer**  (2021-present)
+- **Chief Executive Officer**  (2021 - present)
   - Led a private IT company, driving cost-effective, scalable solutions for businesses.  
   - Delivered Workspace-like applications integrated with third-party products to boost client satisfaction.  
 
-- **Technology Director**  (2022-2023)
+- **Technology Director**  (2022 - 2023)
   - Oversaw compliance and security for a private cryptocurrency exchange, ensuring operational excellence.  
 
-## 🎮 Fun Fact  
+### 🎮 Fun Fact  
 I'm a casual gamer who enjoys exploring new games for fun and relaxation!  
 
-## 📫 Let's Connect!  
+### 📫 Let's Connect!  
 - [LinkedIn](https://linkedin.com/in/stephen-dewanto)
 - [Steam](https://steamcommunity.com/id/michaelboo)
 
