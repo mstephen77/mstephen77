@@ -46,7 +46,9 @@ I'm a casual gamer who enjoys exploring new games for fun and relaxation!
 - [LinkedIn](https://linkedin.com/in/stephen-dewanto)
 - [Steam](https://steamcommunity.com/id/michaelboo)
 
-✨ I'm always open to exploring new opportunities and collaborating on exciting projects. Let’s make technology secure, scalable, and user-friendly!  
+✨ I'm always open to exploring new opportunities and collaborating on exciting projects. Let’s make technology secure, scalable, and user-friendly!
+
+-# [Download](https://raw.githubusercontent.com/mstephen77/mstephen77/refs/heads/master/Resume%20-%20EN.pdf) or [view](https://github.com/mstephen77/mstephen77/blob/master/Resume%20-%20EN.pdf) my resume.
 
 <!--
 **mstephen77/mstephen77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
