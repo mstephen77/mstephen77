@@ -3,8 +3,8 @@
 ### 🎓 Education  
 - **Master of Science (M.Sc.)** in Computer Science
   - Specialization: Computational Intelligence
-- **Master of Science (M.Sc.)** in Computer Science
-  - Specialization: Computational Intelligence
+- **Sarjana Komputer (S.Kom.)** (equivalent to Bachelor of Computer Science)
+  - Specialization: Artificial Intelligence
 
 ### Credentials
 - **Associate Cloud Engineer** from Google Cloud ([link](https://www.credly.com/badges/476671a4-2d78-4cfa-a2c4-2dee3dc700c1))
