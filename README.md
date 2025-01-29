@@ -1,20 +1,40 @@
-👋 Hi, I'm **Stephen Dewanto**, a passionate IT professional with a strong focus on security, scalability, and innovation.  
+👋 Hi, I'm **Stephen Dewanto**, a passionate IT professional with a strong focus on security, scalability, and innovation.
 
 ### 🎓 Education  
-- **Master of Science (M.Sc.)** in Computer Science  
-  - Specialization: Computational Intelligence  
+- **Master of Science (M.Sc.)** in Computer Science
+  - Specialization: Computational Intelligence
+- **Master of Science (M.Sc.)** in Computer Science
+  - Specialization: Computational Intelligence
+
+### Credentials
+- **Associate Cloud Engineer** from Google Cloud ([link](https://www.credly.com/badges/476671a4-2d78-4cfa-a2c4-2dee3dc700c1))
+  - Certification
+  - January 2025 - January 2028
+- **GitHub Foundations** from GitHub ([link](https://www.credly.com/badges/156e81fd-4e09-4375-882d-1d699e09515a))
+  - Certification
+  - October 2024 - October 2027
+- **AWS Cloud Quest: Cloud Practitioner** from Amazon Web Services ([link](https://www.credly.com/badges/17a5012c-8dde-4680-8d39-97869874ebad))
+  - Training
+  - October 2024, no expiration date
 
 ### 💼 Professional Experience  
 - **Security Consultant**  (2023 - present)
-  - Developed and implemented robust security strategies for a private cryptocurrency exchange.  
-  - Modernized infrastructure with a security-first microservices architecture.  
+  - Developed and implemented robust security strategies for a private cryptocurrency exchange.
+  - Modernized infrastructure with a security-first microservices architecture.
 
 - **Chief Executive Officer**  (2021 - present)
-  - Led a private IT company, driving cost-effective, scalable solutions for businesses.  
-  - Delivered Workspace-like applications integrated with third-party products to boost client satisfaction.  
+  - Led a private IT company, driving cost-effective, scalable solutions for businesses.
+  - Delivered Workspace-like applications integrated with third-party products to boost client satisfaction.
 
 - **Technology Director**  (2022 - 2023)
-  - Oversaw compliance and security for a private cryptocurrency exchange, ensuring operational excellence.  
+  - Oversaw compliance and security for a private cryptocurrency exchange, ensuring operational excellence.
+
+- Freelance Full-stack Developer  (2019 - 2021)
+
+- **AI Engineer Intern**  (Mar 2019 - Aug 2019)
+  - Plan, develop, and deploy AI in Natural Language Processing to classify intents in comments for news media and publications.
+
+- **Teaching Assistant**  (2017 - 2019)
 
 ### 🎮 Fun Fact  
 I'm a casual gamer who enjoys exploring new games for fun and relaxation!  
