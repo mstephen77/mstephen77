@@ -1,4 +1,4 @@
-👋 Hi, I'm **Stephen Dewanto**, a passionate IT professional with a strong focus on security, scalability, and innovation.
+👋 Hi, I'm **Stephen Dewanto**, a passionate, results-driven IT professional with a strong focus on security, scalability, and innovation.
 
 ### 🎓 Education  
 - **Master of Science (M.Sc.)** in Computer Science
