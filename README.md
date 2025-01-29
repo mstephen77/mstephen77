@@ -3,6 +3,7 @@
 ### 🎓 Education  
 - **Master of Science (M.Sc.)** in Computer Science
   - Specialization: Computational Intelligence
+
 - **Sarjana Komputer (S.Kom.)** (equivalent to Bachelor of Computer Science)
   - Specialization: Artificial Intelligence
 
@@ -10,9 +11,11 @@
 - **Associate Cloud Engineer** from Google Cloud ([link](https://www.credly.com/badges/476671a4-2d78-4cfa-a2c4-2dee3dc700c1))
   - Certification
   - January 2025 - January 2028
+
 - **GitHub Foundations** from GitHub ([link](https://www.credly.com/badges/156e81fd-4e09-4375-882d-1d699e09515a))
   - Certification
   - October 2024 - October 2027
+
 - **AWS Cloud Quest: Cloud Practitioner** from Amazon Web Services ([link](https://www.credly.com/badges/17a5012c-8dde-4680-8d39-97869874ebad))
   - Training
   - October 2024, no expiration date
