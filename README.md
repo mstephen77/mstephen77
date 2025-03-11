@@ -8,6 +8,10 @@
   - Specialization: Artificial Intelligence
 
 ### 🏆 Credentials
+- **Certified in Cybersecurity** from ISC<sup>2</sup> ([link](https://www.credly.com/badges/not-given-yet))
+  - Certification
+  - March 2025 - March 2028
+
 - **Associate Cloud Engineer** from Google Cloud ([link](https://www.credly.com/badges/476671a4-2d78-4cfa-a2c4-2dee3dc700c1))
   - Certification
   - January 2025 - January 2028
@@ -48,7 +52,7 @@ I'm a casual gamer who enjoys exploring new games for fun and relaxation!
 
 ✨ I'm always open to exploring new opportunities and collaborating on exciting projects. Let’s make technology secure, scalable, and user-friendly!
 
-⚡ [Download](https://raw.githubusercontent.com/mstephen77/mstephen77/refs/heads/master/Resume%20-%20EN.pdf) or [view](https://github.com/mstephen77/mstephen77/blob/master/Resume%20-%20EN.pdf) my resume.
+⚡ [Download](https://stephen.dewanto.me/stephen/Resume%20-%20EN.pdf) or [view](https://github.com/mstephen77/mstephen77/blob/master/Resume%20-%20EN.pdf) my resume.
 
 <!--
 **mstephen77/mstephen77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
