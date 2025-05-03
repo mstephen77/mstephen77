@@ -1,14 +1,22 @@
 👋 Hi, I'm **Stephen Dewanto**, a passionate, results-driven IT professional with a strong focus on security, scalability, and innovation.
 
 ### 🎓 Education  
-- **Master of Science (M.Sc.)** in Computer Science
-  - Specialization: Computational Intelligence
+- **Master of Science (M.Sc.)** in Computer Science, 2022
+  - Electives: Computational Intelligence
 
-- **Sarjana Komputer (S.Kom.)** (equivalent to Bachelor of Computer Science)
-  - Specialization: Artificial Intelligence
+- **Sarjana Komputer (S.Kom.)** (equivalent to Bachelor of Computer Science), 2020
+  - Electives: Artificial Intelligence
 
 ### 🏆 Credentials
-- **Certified in Cybersecurity** from ISC<sup>2</sup> ([link](https://www.credly.com/badges/not-given-yet))
+- **Certified Information Systems Security Professional** from ISC2 (provisionally passed, waiting ISC endorsement)
+  - Certification
+  - April 2025 - April 2028
+
+- **Systems Security Certified Practitioner (SSCP)** from ISC2 ([link](https://www.credly.com/badges/157220c5-7f6f-433d-bcb0-5f8352a22974))
+  - Certification
+  - April 2025 - April 2028
+
+- **Certified in Cybersecurity (CC)** from ISC2 ([link](https://www.credly.com/badges/1c324c8e-5d1e-4f83-8726-ca827e37902f))
   - Certification
   - March 2025 - March 2028
 
@@ -19,10 +27,6 @@
 - **GitHub Foundations** from GitHub ([link](https://www.credly.com/badges/156e81fd-4e09-4375-882d-1d699e09515a))
   - Certification
   - October 2024 - October 2027
-
-- **AWS Cloud Quest: Cloud Practitioner** from Amazon Web Services ([link](https://www.credly.com/badges/17a5012c-8dde-4680-8d39-97869874ebad))
-  - Training
-  - October 2024, no expiration date
 
 ### 💼 Professional Experience  
 - **Security Consultant**  (2023 - present)
@@ -52,7 +56,7 @@ I'm a casual gamer who enjoys exploring new games for fun and relaxation!
 
 ✨ I'm always open to exploring new opportunities and collaborating on exciting projects. Let’s make technology secure, scalable, and user-friendly!
 
-⚡ [Download](https://stephen.dewanto.me/stephen/Resume%20-%20EN.pdf) or [view](https://github.com/mstephen77/mstephen77/blob/master/Resume%20-%20EN.pdf) my resume.
+⚡ [Download](https://stephen.dewanto.me/stephen/Resume%20-%20EN.pdf) my resume.
 
 <!--
 **mstephen77/mstephen77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
